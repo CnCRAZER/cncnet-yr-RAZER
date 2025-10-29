@@ -1,15 +1,15 @@
 [Delete]
-Syringe.exe
-cncnet.mix
 cncnet5.dll
-Syringe.exe
-Ares.dll
-Phobos.dll
-cncnet.mix
-ra2mode.mix
-ares.mix
+Resources\SpriteFont2.xnb
+Resources\SpriteFont3.xnb
+Resources\SpriteFont4.xnb
+Resources\Translations\zh-Hans\SpriteFont2.xnb
+Resources\Translations\zh-Hans\SpriteFont3.xnb
+Resources\Translations\zh-Hans\SpriteFont4.xnb
+Resources\Translations\zh-Hans\SpriteFont5.xnb
 ra2mdlauncher.exe
-Resources\FHCConfig.ini
+ra2md-launcher.exe
+ra2-launcher.exe
 Resources\Allied Theme\loading.png
 Resources\Soviet Theme\loading.png
 Resources\Yuri Theme\loading.png
@@ -516,7 +516,6 @@ Maps\Yuri's Revenge\blitz_park_of_vytautas_blitz.png
 INI\Game Options\No_France_No_Yuri.ini
 INI\ForcedOptions ReadMe.txt
 Maps\Custom\83b65056362a027b56ce57842588d1e470373af3.png
-INI\Game Options\AI\Extreme AI Beta.ini
 Resources\Config\UpdaterConfig_net48.ini
 Resources\Config\UpdaterConfig_Beta.ini
 Maps\Yuri's Revenge\blitz_bongo_2v2.map
@@ -554,6 +553,26 @@ Maps\Custom\737934c19ccc138da093d6cace92d666581e6a45.map
 INI\Game Options\Crates\Disabled.ini
 INI\Game Options\Crates\Super Increased.ini
 Resources\GenericWindowLegacy.ini
+Maps\Custom\[8] The PrivacyVK [Team] 2027 ©_60e10279bd53cd84d6454968b405a1191f58d8c9.map
+Maps\Custom\[8] The PrivacyVK [No Nuke] [Solo] XL 2026 ©_0f1bf254d5a7b032d640b301fc09ad3041782a94.map
+Maps\Custom\[8] The PrivacyVK 2025 © [No Nuke] [Team] ©_a955413c06bddaa436dd56fb0615a973a954dcda.map
+artra2.ini
+artyr.ini
+Resources\Binaries\Windows\DTAConfig.dll
+Resources\Binaries\Windows\DTAConfig.pdb
+Resources\Binaries\OpenGL\DTAConfig.dll
+Resources\Binaries\OpenGL\DTAConfig.pdb
+Resources\Binaries\XNA\DTAConfig.dll
+Resources\Binaries\XNA\DTAConfig.pdb
+Resources\BinariesNET8\Windows\DTAConfig.dll
+Resources\BinariesNET8\Windows\DTAConfig.pdb
+Resources\BinariesNET8\OpenGL\DTAConfig.dll
+Resources\BinariesNET8\OpenGL\DTAConfig.pdb
+Resources\BinariesNET8\UniversalGL\DTAConfig.dll
+Resources\BinariesNET8\UniversalGL\DTAConfig.pdb
+Resources\BinariesNET8\XNA\DTAConfig.dll
+Resources\BinariesNET8\XNA\DTAConfig.pdb
+Maps\Custom\a488fba207efc7910d994a546d410b876bf2dfef.map
 
 [DeleteFolder]
 Maps\Yuri's Revenge\CTF
